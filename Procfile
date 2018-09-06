@@ -1,1 +1,1 @@
-worker node bot.js goto a
+worker node bot.js goto start
